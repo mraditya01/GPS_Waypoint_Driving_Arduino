@@ -5,7 +5,7 @@
 * [Module](#modules-used)
 
 ## General Info
-<br> Arduino Basic Robotic Car for Waypoint Autonomous Naviogation using GPS. The robotic car will move using bluetooth control into a GPS coordinate then save the coordinate waypoint, after three waypoint received, the car will be able to return to original position. <br>
+<br> Arduino Basic Robotic Car for Waypoint Autonomous Navigation using GPS. The robotic car will move using bluetooth control into a GPS coordinate then save the coordinate waypoint, after three waypoint received, the car will be able to return to original position. <br>
 This project is aimed for me to understand more about robotic car, Arduino, and it's modules after trying the ultrasonic obstacle avoiders. Compass QMC5883l is used in this project, which will give the current heading to be able to calculate the heading error by obtaining the waypoint azimuth and the robotic car’s heading with respect to the North, obtained from the digital compass.
 
 ## Library
